@@ -1,1 +1,1 @@
-### Iota Dart Trytes to Ascii - Ascii to Trytes ###
+### Iota Dart Trytes to Ascii - Ascii to Trytes Converter ###
